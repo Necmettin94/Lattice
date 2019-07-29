@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84073e3c-07f4-49ec-b292-0ef07b47e43d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReadFromFileForLattice.java" afterDir="false" />
-    </list>
+    <list default="true" id="84073e3c-07f4-49ec-b292-0ef07b47e43d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,17 +23,6 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
-  </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="C:\Users\NecmettinColakoglu\Desktop\Nec\Lattice\.idea" />
-      </set>
-    </option>
-  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -49,10 +34,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1OemLW4vOnMXh2h6feOmiWeKNBk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -60,7 +42,6 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -108,8 +89,7 @@
       <workItem from="1564267907290" duration="3437000" />
       <workItem from="1564302862534" duration="8674000" />
       <workItem from="1564346382697" duration="7806000" />
-      <workItem from="1564401072966" duration="3129000" />
-      <workItem from="1564409145103" duration="890000" />
+      <workItem from="1564401072966" duration="1789000" />
     </task>
     <servers />
   </component>
