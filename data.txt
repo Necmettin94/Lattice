@@ -1,0 +1,9 @@
+ConnectsTo,A,B
+Requires,B,F
+ConnectsTo,B,C
+ConnectsTo,C,D
+ConnectsTo,C,E
+Excludes,Z,D
+ConnectsTo,A,D
+Requires,C,K
+Excludes,F,E
